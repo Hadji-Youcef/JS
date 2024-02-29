@@ -6,7 +6,7 @@ console.log(typeof str);
 console.log(typeof str);
 
 str=7;
-let Obj ={
+            let Obj ={
     str: str,
     num: 123,
     str2: "this is way easier than is should be no?",
