@@ -1,0 +1,12 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "index",
+  "steps": [
+    {
+      "file": "index.html",
+      "description": "testing purposes",
+      "line": 2
+    }
+  ],
+  "ref": "main"
+}
